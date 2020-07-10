@@ -1,0 +1,27 @@
+{
+  "streams": [
+    {
+      "title": "stream",
+      "description": "this stream",
+      "id": 1
+    },
+    {
+      "title": "stream with ID",
+      "description": "Test Stream",
+      "userId": "102903098355208099697",
+      "id": 2
+    },
+    {
+      "title": "refactor2",
+      "description": "refactor2",
+      "userId": "102903098355208099697",
+      "id": 7
+    },
+    {
+      "title": "edited6",
+      "description": "edited6",
+      "userId": "102903098355208099697",
+      "id": 8
+    }
+  ]
+}
